@@ -6,8 +6,8 @@ import { Provider } from 'react-redux';
 import { store } from './store';
 
 
-
-
+// Totural Link
+// https://www.youtube.com/watch?v=0cPCMIuDk2I
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
